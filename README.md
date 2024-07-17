@@ -12,3 +12,5 @@ If you extract 32-256^7.zip once you will be fine which is why I made 32-256.zip
 NOTE: 32-256-zipped.zip contains ONE FILE, 32-256.zip which is the actual bomb being <40 MB in size and decompresses to 1TB
 
 (I had to zip it twice because of file size limits)
+
+* 1TB = 1,099,511,627,776 bytes
