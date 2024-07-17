@@ -3,7 +3,7 @@
 
 This zip bomb uses overlapping files and recursion to achieve 7 layers with 256 files each, with the last being a 32GB file.
 
-It is only 266 KB on-disk.
+It is only 266 KB on disk.
 
 (overlapping files are broken meaning the zip bomb is "corrupted" but you can still read them at least in Windows.)
 
