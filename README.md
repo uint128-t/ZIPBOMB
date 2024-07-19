@@ -7,7 +7,7 @@ It is only 266 KB on disk.
 
 (overlapping files are broken meaning the zip bomb is "corrupted" but you can still read them at least in Windows.)
 
-If you extract 32-256^7.zip once you will be fine which is why I made 32-256.zip which is 1TB decompressed and if you extract it once you're done for
+If you extract 32-256^7.zip once you will be fine which is why I made 32-256.zip which is 8TB decompressed and if you extract it once you're done for
 
 (file sizes are spoofed so that your OS won't think that you don't have enough disk space)
 
